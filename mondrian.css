@@ -18,7 +18,7 @@ body {
 }
 .audio h2{
     width: 300px;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family: "Bebas Neue", sans-serif;
     font-weight: lighter;
@@ -37,10 +37,9 @@ audio {
 }
 
 .cuadro {
-    border: 1px solid #444; /* Borde de los cuadros */
+    border: none;
 }
 
-/* Colores de los cuadros (puedes personalizarlos) */
 .cuadro-1 { background-color: #f5f5dc; }
 .cuadro-2 { background-color: #f5f5dc; }
 .cuadro-3 { background-color: #f5f5dc; }
@@ -85,8 +84,8 @@ audio {
 .cuadro-42 { background-color: #f5f5dc; }
 .cuadro-43 { background-color: #f5f5dc; }
 .cuadro-44 { background-color: #f5f5dc; }
-.cuadro-45 { background-color: #0000; }
-.cuadro-46 { background-color: #0000; }
+.cuadro-45 { background-color: #f5f5dc; }
+.cuadro-46 { background-color: #f5f5dc; }
 .cuadro-47 { background-color: #ec0d0d; }
 .cuadro-48 { background-color: #ec0d0d; }
 .cuadro-49 { background-color: #f07f20; }
@@ -95,8 +94,8 @@ audio {
 .cuadro-52 { background-color: #f5f5dc; }
 .cuadro-53 { background-color: #7f8488; }
 .cuadro-54 { background-color: #ec0d0d; }
-.cuadro-55 { background-color: #0000; }
-.cuadro-56 { background-color: #0000; }
+.cuadro-55 { background-color: #f5f5dc; }
+.cuadro-56 { background-color: #f5f5dc; }
 .cuadro-57 { background-color: #ec0d0d; }
 .cuadro-58 { background-color: #ec0d0d; }
 .cuadro-59 { background-color: #f4c01c; }
